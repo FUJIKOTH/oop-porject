@@ -1,11 +1,10 @@
 README.md
 - application title
 - author: 
-  * id: ---
-  * name: first last
+  * id: 66114540676
+  * name: นาย วายุ กอคูณ
 - technology: [pygame/streamlit]
-- application description:
+- application description: รายละเอียดโครงงาน
 
 * presentation: [slide/canva/etc..] link [public/ubu]
-* video: link [public/ubu]
- xoxoxo
+* video: link [public/ubu]:
