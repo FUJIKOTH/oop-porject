@@ -1,12 +1,20 @@
-##OOP-porject
+## OOP-porject
 
-คำนวณปี              
+## เว็บคำนวณปี
 
-Author: 
-  * id: 66114540676
-  * name: นาย วายุ กอคูณ
-- technology: [streamlit]
-- application description: เว็บคำนวณ ปี พ.ศ
+## Author:
 
-* presentation: [slide/canva/etc..] link [public/ubu]
-* video: link [public/ubu]:
+-   id: 66114540676
+-   name: นาย วายุ กอคูณ
+
+# technology: [streamlit]
+
+## application description: เว็บคำนวณ ปี พ.ศ หรือ ปีอื่นๆ
+
+## - presentation:
+
+ [slide/canva/etc..] link [public/ubu]
+
+## - video:
+
+ link [public/ubu]:
