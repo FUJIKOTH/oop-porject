@@ -1,5 +1,4 @@
 OOP-porject
-
 คำนวณปี                
 Author: 
   * id: 66114540676
