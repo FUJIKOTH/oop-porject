@@ -11,10 +11,5 @@
 
 ## application description: เว็บคำนวณ ปี พ.ศ หรือ ปีอื่นๆ
 
-##  presentation:
-
- [slide/canva/etc..] link [public/ubu]
-
-##  video:
-
- link [public/ubu]:
+##  presentation:[]
+##  video:[]
