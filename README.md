@@ -9,7 +9,6 @@
 
 # technology: [streamlit]
 
-## application description: เว็บคำนวณ ปี พ.ศ หรือ ปีอื่นๆ
-
+## application description: เว็บ
 ##  presentation:[]
 ##  video:[]
