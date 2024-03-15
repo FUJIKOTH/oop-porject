@@ -1,6 +1,7 @@
 ## OOP-porject
 
 ## คำนวณดัชนีมวลกาย BMI
+![download banner](./BMIPNG.png)
 
 ## Author:
 
